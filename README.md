@@ -9,13 +9,13 @@ A workplace directory app: browse **colleagues** and check **meeting room availa
 This is a **UI-layer migration** of [WorkspaceHub (XML Views)](https://github.com/syeds-dev/workspace-hub-android) to Jetpack Compose. The **models, repositories, Hilt modules and ViewModels are identical** to the XML version. Only the UI changed, which shows how a clean MVVM architecture lets you replace the view layer without touching business logic.
 
 <p align="center">
-  <img src="screenshots/home.png" width="230" alt="Home screen"/>
+  <img src="screenshots/home.png" width="200" alt="Home screen"/>
   &nbsp;
-  <img src="screenshots/contacts.png" width="230" alt="Contacts list"/>
+  <img src="screenshots/contacts.png" width="200" alt="Contacts list"/>
   &nbsp;
-  <img src="screenshots/contact_details.png" width="230" alt="Contact details"/>
+  <img src="screenshots/contact_details.png" width="200" alt="Contact details"/>
   &nbsp;
-  <img src="screenshots/rooms.png" width="230" alt="Rooms list"/>
+  <img src="screenshots/rooms.png" width="200" alt="Rooms list"/>
 </p>
 
 ## ✨ Features
