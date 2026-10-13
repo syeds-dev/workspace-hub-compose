@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Workspace Hub</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_side_heading">Email : </string>
+    <string name="job_title_side_heading">Job Title : </string>
+    <string name="fav_color_side_heading">Favorite Color : </string>
+    <string name="contacts_label">CONTACTS</string>
+    <string name="rooms_label">ROOMS</string>
+    <string name="max_occupancy">MAX OCCUPANCY</string>
+    <string name="room_status">STATUS</string>
+    <string name="contacts_button_description">There are two buttons here. Above one is contacts</string>
+    <string name="contacts_button_label_description">Contacts Button</string>
+    <string name="rooms_button_description">Rooms</string>
+    <string name="rooms_button_label_description">Rooms Button</string>
+    <string name="app_loading_description">Workspace Hub app Launched</string>
+    <string name="contact_details_description">This is Details of the selected Contact</string>
+    <string name="header_description">Header having profile picture and name of the Colleague. Below there are more details available like Email ID, Job Title and Favourite color.</string>
+    <string name="contact_list_description">This is contact list screen touch some place to know the contact person and scroll down with double finger to know more contacts.</string>
+    <string name="rooms_list_description">This is the Rooms list screen. There are two columns in the list. The first column is the Maximun occupancy and the second column is the room status. This colum says whether the room is occupied or not.</string>
+</resources>

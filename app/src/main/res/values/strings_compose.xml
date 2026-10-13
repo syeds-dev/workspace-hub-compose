@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Extra strings for the Compose UI. Original strings stay in strings.xml. -->
+    <string name="contacts_title">Contacts</string>
+    <string name="rooms_title">Rooms</string>
+    <string name="contact_details_title">Contact Details</string>
+    <string name="available">Available</string>
+    <string name="occupied">Occupied</string>
+    <string name="retry">Retry</string>
+    <string name="navigate_back">Navigate back</string>
+    <string name="no_internet">No Internet Connection!</string>
+    <string name="contact_not_found">Contact not found</string>
+    <string name="profile_picture_of">Profile picture of %1$s</string>
+    <string name="room_row_description">Maximum occupancy %1$s, %2$s</string>
+</resources>

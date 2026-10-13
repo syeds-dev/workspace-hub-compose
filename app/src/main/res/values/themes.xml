@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window theme only. All UI colours and typography are defined in Compose (ui/theme). -->
+    <style name="Theme.WorkspaceHub" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/brand_red</item>
+    </style>
+
+    <!-- Replaces the old SplashScreen activity: system splash screen API (core-splashscreen) -->
+    <style name="Theme.WorkspaceHub.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/brand_red</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/workspacehub_icon</item>
+        <item name="postSplashScreenTheme">@style/Theme.WorkspaceHub</item>
+    </style>
+</resources>
